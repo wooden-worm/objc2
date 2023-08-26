@@ -4580,7 +4580,7 @@ Speech_all = [
     "Speech_SFVoiceAnalytics",
 ]
 StoreKit = [
-    "AppKit",
+    # "AppKit",
     "Foundation",
 ]
 StoreKit_SKAdImpression = []
